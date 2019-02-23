@@ -7,11 +7,6 @@
  * @IDE:  : PyCharm
  * ===================================================================
  */
-
-import * as tf from '@tensorflow/tfjs';
-
-import {NSFW_CLASSES} from './nsfw_classes';
-
 const MODEL_FILE_URL = 'model/tensorflowjs_model.pb';
 const WEIGHT_MANIFEST_FILE_URL = 'model/weights_manifest.json';
 const INPUT_NODE_NAME = 'input_tensor';
