@@ -1,5 +1,3 @@
-import imageURL from './test_drawing_resize.jpg';
-
 const cat = document.getElementById('cat');
 cat.onload = async () => {
   const resultElement = document.getElementById('result');
