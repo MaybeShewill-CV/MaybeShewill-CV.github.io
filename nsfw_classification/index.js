@@ -1,5 +1,3 @@
-import * as tf from '@tensorflow/tfjs';
-import {NsfwNet} from './nsfwnet';
 import imageURL from './test_drawing_resize.jpg';
 
 const cat = document.getElementById('cat');

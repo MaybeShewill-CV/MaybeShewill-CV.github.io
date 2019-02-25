@@ -7,12 +7,6 @@
  * @IDE:  : PyCharm
  * ===================================================================
  */
-
-import * as tf from '@tensorflow/tfjs';
-
-import {NSFW_CLASSES} from './nsfw_classes';
-
-const MODEL_ROOT_DIR = '/home/baidu/Silly_Project/ICode/baidu/beec/maybeshewill-cv-github-io/nsfw_classification/';
 const MODEL_FILE_URL = 'model/tensorflowjs_model.pb';
 const WEIGHT_MANIFEST_FILE_URL = 'model/weights_manifest.json';
 const INPUT_NODE_NAME = 'input_tensor';
@@ -24,9 +18,10 @@ export class NsfwNet {
 
   async load() {
     this.model = await tf.loadFrozenModel(
-        MODEL_ROOT_DIR + MODEL_FILE_URL,
-        MODEL_ROOT_DIR + WEIGHT_MANIFEST_FILE_URL);
-  }
+        MODEL_FILE_URL,
+        WEIGHT_MANIFEST_FILE_URL);
+    //   this.model = await loadFrozenModel(MODEL_FILE_URL, WEIGHT_MANIFEST_FILE_URL)
+}
 
   dispose() {
     if (this.model) {
