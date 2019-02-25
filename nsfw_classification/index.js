@@ -8,16 +8,20 @@ cat.onload = async () => {
 
   resultElement.innerText = 'Loading NsfwNet...';
 
+  console.log('Load nsfw model start');
+
   const nsfwNet = new NsfwNet();
   console.time('Loading of model');
   await nsfwNet.load();
   console.timeEnd('Loading of model');
 
+  console.log('Load nsfw model successfully');
+
   const pixels = tf.browser.fromPixels(cat);
 
   console.time('First prediction');
-  let result = mobileNet.predict(pixels);
-  const topK = mobileNet.getTopKClasses(result, 2);
+  let result = nsfwNet.predict(pixels);
+  const topK = nsfwNet.getTopKClasses(result, 2);
   console.timeEnd('First prediction');
 
   resultElement.innerText = '';
@@ -26,10 +30,10 @@ cat.onload = async () => {
   });
 
   console.time('Subsequent predictions');
-  result = mobileNet.predict(pixels);
-  mobileNet.getTopKClasses(result, 5);
+  result = nsfwNet.predict(pixels);
+  nsfwNet.getTopKClasses(result, 5);
   console.timeEnd('Subsequent predictions');
 
-  mobileNet.dispose();
+  nsfwNet.dispose();
 };
 cat.src = imageURL;
