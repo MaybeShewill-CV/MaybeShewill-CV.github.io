@@ -13,6 +13,14 @@ const INPUT_NODE_NAME = 'input_tensor';
 const OUTPUT_NODE_NAME = 'nsfw_cls_model/final_prediction';
 const PREPROCESS_DIVISOR = tf.scalar(255.0);
 
+const NSFW_CLASSES = {
+  0: 'drawing',
+  1: 'hentai',
+  2: 'neural',
+  3: 'porn',
+  4: 'sexy',
+};
+
 export class NsfwNet {
   constructor() {}
 
