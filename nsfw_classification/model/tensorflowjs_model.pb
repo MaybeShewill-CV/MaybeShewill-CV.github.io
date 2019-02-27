@@ -1,809 +1,713 @@
 
-r
-Gnsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B@*
+u
+Insfw_cls_model/resnet_block_layer_4/block_fn_2/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
 dtype0
-r
-Gnsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B@*
+u
+Insfw_cls_model/resnet_block_layer_4/block_fn_2/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
 dtype0
-~
-Gnsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB@@*
+ã
+Rnsfw_cls_model/resnet_block_layer_4/block_fn_2/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
 dtype0
-r
-Gnsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B@*
-dtype0
-l
-5nsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/conv/WConst*
-valueB@@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B@*
-dtype0
-~
-Gnsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB@@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B@*
-dtype0
-l
-5nsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/conv/WConst*
-valueB@@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-dtype0*
-value
-B@
-r
-Gnsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B@*
-dtype0
-~
-Gnsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB@@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-dtype0*
-value
-B@
-l
-5nsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/conv/WConst*
-valueB@@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B@*
-dtype0
-~
-Gnsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB@@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B@*
-dtype0
-l
-5nsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/conv/WConst*
-valueB@@*
-dtype0
-r
-Gnsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B *
-dtype0
-r
-Gnsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B *
-dtype0
-~
-Gnsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB @*
-dtype0
-r
-Gnsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B@*
-dtype0
-l
-5nsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/conv/WConst*
-dtype0*
-valueB@@
-r
-Gnsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B *
-dtype0
-r
-Gnsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B *
-dtype0
-~
-Gnsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB  *
-dtype0
-r
-Gnsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B *
-dtype0
-l
-5nsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/conv/WConst*
-valueB  *
-dtype0
-r
-Gnsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B *
-dtype0
-r
-Gnsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B *
-dtype0
-~
-Gnsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB  *
-dtype0
-r
-Gnsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-dtype0*
-value
-B 
-l
-5nsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/conv/WConst*
-valueB  *
-dtype0
-r
-Gnsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B *
-dtype0
-r
-Gnsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B *
-dtype0
-~
-Gnsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB  *
-dtype0
-r
-Gnsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B *
-dtype0
-l
-5nsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/conv/WConst*
-valueB  *
-dtype0
-r
-Gnsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B *
-dtype0
-r
-Gnsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B *
-dtype0
-~
-Gnsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB  *
-dtype0
-r
-Gnsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B *
-dtype0
-l
-5nsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/conv/WConst*
-dtype0*
-valueB  
-r
-Gnsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B*
-dtype0
-r
-Gnsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-dtype0*
-value
-B
-~
-Gnsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB *
-dtype0
-r
-Gnsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-dtype0*
-value
-B 
-l
-5nsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/conv/WConst*
-valueB  *
-dtype0
-r
-Gnsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-dtype0*
-value
-B
-r
-Gnsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-~
-Gnsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-dtype0*
-valueB
-r
-Gnsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-l
-5nsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/conv/WConst*
-valueB*
-dtype0
-r
-Gnsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B*
-dtype0
-r
-Gnsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-~
-Gnsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-dtype0*
-valueB
-r
-Gnsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-l
-5nsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/conv/WConst*
-valueB*
-dtype0
-r
-Gnsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-dtype0*
-value
-B
-r
-Gnsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-~
-Gnsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB*
-dtype0
-r
-Gnsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-l
-5nsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/conv/WConst*
-valueB*
-dtype0
-r
-Gnsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/ScaledConst*
-value
-B*
-dtype0
-r
-Gnsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-~
-Gnsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/conv/Conv2D/merged_inputConst*
-valueB*
-dtype0
-r
-Gnsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-l
-5nsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/conv/WConst*
-valueB*
+u
+Insfw_cls_model/resnet_block_layer_4/block_fn_2/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
 dtype0
 y
-Bnsfw_cls_model/conv_1_0/conv_1_in_block/conv_1/Conv2D/merged_inputConst*
-dtype0*
-valueB
-r
-Gnsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/OffsetConst*
-value
-B*
+@nsfw_cls_model/resnet_block_layer_4/block_fn_2/conv_pad_2/conv/WConst*!
+valueBÄÄ*
 dtype0
-l
-5nsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/conv/WConst*
-valueB*
+u
+Insfw_cls_model/resnet_block_layer_4/block_fn_1/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_4/block_fn_1/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_4/block_fn_1/conv_pad_1/conv/Conv2D/merged_inputConst*
+dtype0*!
+valueBÄÄ
+u
+Insfw_cls_model/resnet_block_layer_4/block_fn_1/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_4/block_fn_1/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+é
+Unsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+x
+Lnsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_2/FusedBatchNorm/OffsetConst*
+dtype0*
+valueB	Ä
+|
+Cnsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_5/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_5/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_3/block_fn_5/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_5/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_3/block_fn_5/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_4/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_4/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_3/block_fn_4/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_4/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_3/block_fn_4/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_3/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_3/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_3/block_fn_3/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_3/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_3/block_fn_3/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_2/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_2/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_3/block_fn_2/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_2/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_3/block_fn_2/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_1/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_1/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_3/block_fn_1/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_3/block_fn_1/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_3/block_fn_1/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+é
+Unsfw_cls_model/resnet_block_layer_3/init_block_fn/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+x
+Lnsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_2/FusedBatchNorm/OffsetConst*
+dtype0*
+valueB	Ä
+|
+Cnsfw_cls_model/resnet_block_layer_3/init_block_fn/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_3/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_3/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_2/block_fn_3/conv_pad_1/conv/Conv2D/merged_inputConst*
+dtype0*!
+valueBÄÄ
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_3/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_2/block_fn_3/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_2/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_2/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_2/block_fn_2/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_2/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_2/block_fn_2/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_1/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_1/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+ã
+Rnsfw_cls_model/resnet_block_layer_2/block_fn_1/conv_pad_1/conv/Conv2D/merged_inputConst*!
+valueBÄÄ*
+dtype0
+u
+Insfw_cls_model/resnet_block_layer_2/block_fn_1/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+y
+@nsfw_cls_model/resnet_block_layer_2/block_fn_1/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+à
+Ynsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_1/fix_padding/pad/Pad/paddingsConst*
+valueB*
+dtype0
+ç
+Unsfw_cls_model/resnet_block_layer_2/init_block_fn/conv_pad_1/conv/Conv2D/merged_inputConst* 
+valueB@Ä*
+dtype0
+x
+Lnsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_2/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+|
+Cnsfw_cls_model/resnet_block_layer_2/init_block_fn/conv_pad_2/conv/WConst*!
+valueBÄÄ*
+dtype0
+t
+Insfw_cls_model/resnet_block_layer_1/block_fn_2/bn_1/FusedBatchNorm/ScaledConst*
+value
+B@*
+dtype0
+t
+Insfw_cls_model/resnet_block_layer_1/block_fn_2/bn_1/FusedBatchNorm/OffsetConst*
+value
+B@*
+dtype0
+â
+Rnsfw_cls_model/resnet_block_layer_1/block_fn_2/conv_pad_1/conv/Conv2D/merged_inputConst*
+valueB@@*
+dtype0
+t
+Insfw_cls_model/resnet_block_layer_1/block_fn_2/bn_2/FusedBatchNorm/OffsetConst*
+dtype0*
+value
+B@
+w
+@nsfw_cls_model/resnet_block_layer_1/block_fn_2/conv_pad_2/conv/WConst*
+dtype0*
+valueB@@
+t
+Insfw_cls_model/resnet_block_layer_1/block_fn_1/bn_1/FusedBatchNorm/ScaledConst*
+value
+B@*
+dtype0
+t
+Insfw_cls_model/resnet_block_layer_1/block_fn_1/bn_1/FusedBatchNorm/OffsetConst*
+value
+B@*
+dtype0
+â
+Rnsfw_cls_model/resnet_block_layer_1/block_fn_1/conv_pad_1/conv/Conv2D/merged_inputConst*
+valueB@@*
+dtype0
+t
+Insfw_cls_model/resnet_block_layer_1/block_fn_1/bn_2/FusedBatchNorm/OffsetConst*
+value
+B@*
+dtype0
+w
+@nsfw_cls_model/resnet_block_layer_1/block_fn_1/conv_pad_2/conv/WConst*
+valueB@@*
+dtype0
+å
+Unsfw_cls_model/resnet_block_layer_1/init_block_fn/conv_pad_1/conv/Conv2D/merged_inputConst*
+valueB@@*
+dtype0
+w
+Lnsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_2/FusedBatchNorm/OffsetConst*
+value
+B@*
+dtype0
+z
+Cnsfw_cls_model/resnet_block_layer_1/init_block_fn/conv_pad_2/conv/WConst*
+valueB@@*
 dtype0
 G
 input_tensorPlaceholder*
 dtype0*
 shape:ÄÄ
-l
-5nsfw_cls_model/conv_0/conv_0/conv/Conv2D/merged_inputConst*
-valueB*
-dtype0
-`
-5nsfw_cls_model/conv_0/conv_0/bn/FusedBatchNorm/OffsetConst*
-value
-B*
-dtype0
-S
-$nsfw_cls_model/conv_2_0/Pad/paddingsConst*
+k
+<nsfw_cls_model/initial_conv_pad/fix_padding/pad/Pad/paddingsConst*
 valueB*
 dtype0
-S
-$nsfw_cls_model/conv_3_0/Pad/paddingsConst*
-valueB*
-dtype0
-U
-*nsfw_cls_model/fc/bn/FusedBatchNorm/ScaledConst*
+]
+&nsfw_cls_model/initial_conv_pad/conv/WConst*
+valueB@*
+dtype0
+w
+Lnsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_1/FusedBatchNorm/ScaledConst*
 value
 B@*
 dtype0
-U
-*nsfw_cls_model/fc/bn/FusedBatchNorm/OffsetConst*
+w
+Lnsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_1/FusedBatchNorm/OffsetConst*
 value
 B@*
 dtype0
-^
-3nsfw_cls_model/fc/global_avg_pool/reduction_indicesConst*
+É
+Lnsfw_cls_model/resnet_block_layer_1/init_block_fn/projection_shortcut/conv/WConst*
+valueB@@*
+dtype0
+w
+Lnsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_1/FusedBatchNorm/ScaledConst*
+value
+B@*
+dtype0
+w
+Lnsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_1/FusedBatchNorm/OffsetConst*
+value
+B@*
+dtype0
+Ñ
+Lnsfw_cls_model/resnet_block_layer_2/init_block_fn/projection_shortcut/conv/WConst* 
+valueB@Ä*
+dtype0
+x
+Lnsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+x
+Lnsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+Ö
+Lnsfw_cls_model/resnet_block_layer_3/init_block_fn/projection_shortcut/conv/WConst*!
+valueBÄÄ*
+dtype0
+x
+Lnsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_1/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+x
+Lnsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_1/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+Ö
+Lnsfw_cls_model/resnet_block_layer_4/init_block_fn/projection_shortcut/conv/WConst*!
+valueBÄÄ*
+dtype0
+e
+9nsfw_cls_model/bn_after_block_layer/FusedBatchNorm/ScaledConst*
+valueB	Ä*
+dtype0
+e
+9nsfw_cls_model/bn_after_block_layer/FusedBatchNorm/OffsetConst*
+valueB	Ä*
+dtype0
+]
+2nsfw_cls_model/final_reduce_mean/reduction_indicesConst*
 value
 B*
 dtype0
-T
-%nsfw_cls_model/fc/final_logits/kernelConst*
-valueB@*
+R
+"nsfw_cls_model/final_logits/kernelConst*
+valueB	Ä*
 dtype0
-N
-#nsfw_cls_model/fc/final_logits/biasConst*
-value
-B*
-dtype0
-¯
-2nsfw_cls_model/conv_0/conv_0/bn/FusedBatchNorm/MulConv2Dinput_tensor5nsfw_cls_model/conv_0/conv_0/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-©
-.nsfw_cls_model/conv_0/conv_0/bn/FusedBatchNormAdd2nsfw_cls_model/conv_0/conv_0/bn/FusedBatchNorm/Mul5nsfw_cls_model/conv_0/conv_0/bn/FusedBatchNorm/Offset*
-T0
-b
-!nsfw_cls_model/conv_0/conv_0/reluRelu.nsfw_cls_model/conv_0/conv_0/bn/FusedBatchNorm*
-T0
-¨
-Dnsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D!nsfw_cls_model/conv_0/conv_0/reluBnsfw_cls_model/conv_1_0/conv_1_in_block/conv_1/Conv2D/merged_input*
-paddingSAME*
-	dilations
-*
-T0*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(
-ﬂ
-@nsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/conv/W*
-paddingSAME*
-	dilations
-*
-T0*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(
-ä
-nsfw_cls_model/conv_1_0/addAdd:nsfw_cls_model/conv_1_0/conv_2_in_block/conv_2/conv/Conv2D!nsfw_cls_model/conv_0/conv_0/relu*
-T0
-∫
-Dnsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_1_0/addGnsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_1_1/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-paddingSAME*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(
-ﬂ
-@nsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/conv/W*
-	dilations
-*
-T0*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(*
-paddingSAME
-Ñ
-nsfw_cls_model/conv_1_1/addAdd:nsfw_cls_model/conv_1_1/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_1_0/add*
-T0
-∫
-Dnsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_1_1/addGnsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_1_2/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/conv/W*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-Ñ
-nsfw_cls_model/conv_1_2/addAdd:nsfw_cls_model/conv_1_2/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_1_1/add*
-T0
-∫
-Dnsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_1_2/addGnsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_1_3/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/conv/W*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-Ñ
-nsfw_cls_model/conv_1_3/addAdd:nsfw_cls_model/conv_1_3/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_1_2/add*
-T0
-∫
-Dnsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_1_3/addGnsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_1_4/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/conv/W*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-Ñ
-nsfw_cls_model/conv_1_4/addAdd:nsfw_cls_model/conv_1_4/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_1_3/add*
-T0
-∫
-Dnsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_1_4/addGnsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-§
- nsfw_cls_model/conv_2_0/avg_poolAvgPoolnsfw_cls_model/conv_1_4/add*
-ksize
-*
-paddingVALID*
-T0*
-data_formatNHWC*
-strides
-
-ﬂ
-@nsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ñ
-nsfw_cls_model/conv_2_0/PadPad nsfw_cls_model/conv_2_0/avg_pool$nsfw_cls_model/conv_2_0/Pad/paddings*
+†
+3nsfw_cls_model/initial_conv_pad/fix_padding/pad/PadPadinput_tensor<nsfw_cls_model/initial_conv_pad/fix_padding/pad/Pad/paddings*
 T0*
 	Tpaddings0
-Ü
-3nsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_2_0/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/conv/W*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-Ñ
-nsfw_cls_model/conv_2_0/addAdd:nsfw_cls_model/conv_2_0/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_2_0/Pad*
-T0
-∫
-Dnsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_2_0/addGnsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_2_1/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/conv/W*
+ä
++nsfw_cls_model/initial_conv_pad/conv/Conv2DConv2D3nsfw_cls_model/initial_conv_pad/fix_padding/pad/Pad&nsfw_cls_model/initial_conv_pad/conv/W*
+paddingVALID*
 	dilations
 *
 T0*
 strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(*
-paddingSAME
-Ñ
-nsfw_cls_model/conv_2_1/addAdd:nsfw_cls_model/conv_2_1/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_2_0/add*
-T0
-∫
-Dnsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_2_1/addGnsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_2_2/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/conv/W*
-paddingSAME*
-	dilations
-*
-T0*
-strides
-*
+*
 data_formatNHWC*
 use_cudnn_on_gpu(
-Ñ
-nsfw_cls_model/conv_2_2/addAdd:nsfw_cls_model/conv_2_2/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_2_1/add*
-T0
-∫
-Dnsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_2_2/addGnsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_2_3/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-paddingSAME*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(
-ﬂ
-@nsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/conv/W*
-paddingSAME*
-	dilations
-*
+≤
+nsfw_cls_model/initial_max_poolMaxPool+nsfw_cls_model/initial_conv_pad/conv/Conv2D*
 T0*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(
-Ñ
-nsfw_cls_model/conv_2_3/addAdd:nsfw_cls_model/conv_2_3/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_2_2/add*
-T0
-∫
-Dnsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_2_3/addGnsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_2_4/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-paddingSAME*
-	dilations
-*
-T0*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(
-ﬂ
-@nsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/conv/W*
-	dilations
-*
-T0*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(*
-paddingSAME
-Ñ
-nsfw_cls_model/conv_2_4/addAdd:nsfw_cls_model/conv_2_4/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_2_3/add*
-T0
-∫
-Dnsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_2_4/addGnsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-§
- nsfw_cls_model/conv_3_0/avg_poolAvgPoolnsfw_cls_model/conv_2_4/add*
 strides
 *
 data_formatNHWC*
 ksize
-*
-paddingVALID*
+*
+paddingSAME
+»
+Insfw_cls_model/resnet_block_layer_1/init_block_fn/bn_1/FusedBatchNorm/MulMulnsfw_cls_model/initial_max_poolLnsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_1/FusedBatchNorm/Scaled*
 T0
-ﬂ
-@nsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
+Ó
+Ensfw_cls_model/resnet_block_layer_1/init_block_fn/bn_1/FusedBatchNormAddInsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_1/FusedBatchNorm/MulLnsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_1/FusedBatchNorm/Offset*
 T0
-Ñ
-nsfw_cls_model/conv_3_0/PadPad nsfw_cls_model/conv_3_0/avg_pool$nsfw_cls_model/conv_3_0/Pad/paddings*
+ê
+8nsfw_cls_model/resnet_block_layer_1/init_block_fn/relu_1ReluEnsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_1/FusedBatchNorm*
+T0
+€
+Insfw_cls_model/resnet_block_layer_1/init_block_fn/bn_2/FusedBatchNorm/MulConv2D8nsfw_cls_model/resnet_block_layer_1/init_block_fn/relu_1Unsfw_cls_model/resnet_block_layer_1/init_block_fn/conv_pad_1/conv/Conv2D/merged_input*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+
+⁄
+Qnsfw_cls_model/resnet_block_layer_1/init_block_fn/projection_shortcut/conv/Conv2DConv2D8nsfw_cls_model/resnet_block_layer_1/init_block_fn/relu_1Lnsfw_cls_model/resnet_block_layer_1/init_block_fn/projection_shortcut/conv/W*
+paddingSAME*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(
+Ó
+Ensfw_cls_model/resnet_block_layer_1/init_block_fn/bn_2/FusedBatchNormAddInsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_2/FusedBatchNorm/MulLnsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_2/FusedBatchNorm/Offset*
+T0
+ê
+8nsfw_cls_model/resnet_block_layer_1/init_block_fn/relu_2ReluEnsfw_cls_model/resnet_block_layer_1/init_block_fn/bn_2/FusedBatchNorm*
+T0
+»
+Hnsfw_cls_model/resnet_block_layer_1/init_block_fn/conv_pad_2/conv/Conv2DConv2D8nsfw_cls_model/resnet_block_layer_1/init_block_fn/relu_2Cnsfw_cls_model/resnet_block_layer_1/init_block_fn/conv_pad_2/conv/W*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME
+‘
+'nsfw_cls_model/resnet_block_layer_1/addAddHnsfw_cls_model/resnet_block_layer_1/init_block_fn/conv_pad_2/conv/Conv2DQnsfw_cls_model/resnet_block_layer_1/init_block_fn/projection_shortcut/conv/Conv2D*
+T0
+ 
+Fnsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_1/FusedBatchNorm/MulMul'nsfw_cls_model/resnet_block_layer_1/addInsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_1/block_fn_1/relu_1ReluBnsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_1/block_fn_1/relu_1Rnsfw_cls_model/resnet_block_layer_1/block_fn_1/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_1/block_fn_1/relu_2ReluBnsfw_cls_model/resnet_block_layer_1/block_fn_1/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_1/block_fn_1/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_1/block_fn_1/relu_2@nsfw_cls_model/resnet_block_layer_1/block_fn_1/conv_pad_2/conv/W*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+
+©
+)nsfw_cls_model/resnet_block_layer_1/add_1AddEnsfw_cls_model/resnet_block_layer_1/block_fn_1/conv_pad_2/conv/Conv2D'nsfw_cls_model/resnet_block_layer_1/add*
+T0
+Ã
+Fnsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_1/add_1Insfw_cls_model/resnet_block_layer_1/block_fn_2/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_1/block_fn_2/relu_1ReluBnsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_1/block_fn_2/relu_1Rnsfw_cls_model/resnet_block_layer_1/block_fn_2/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_1/block_fn_2/relu_2ReluBnsfw_cls_model/resnet_block_layer_1/block_fn_2/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_1/block_fn_2/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_1/block_fn_2/relu_2@nsfw_cls_model/resnet_block_layer_1/block_fn_2/conv_pad_2/conv/W*
+paddingSAME*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(
+´
+)nsfw_cls_model/resnet_block_layer_1/add_2AddEnsfw_cls_model/resnet_block_layer_1/block_fn_2/conv_pad_2/conv/Conv2D)nsfw_cls_model/resnet_block_layer_1/add_1*
+T0
+“
+Insfw_cls_model/resnet_block_layer_2/init_block_fn/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_1/add_2Lnsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_1/FusedBatchNorm/Scaled*
+T0
+Ó
+Ensfw_cls_model/resnet_block_layer_2/init_block_fn/bn_1/FusedBatchNormAddInsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_1/FusedBatchNorm/MulLnsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_1/FusedBatchNorm/Offset*
+T0
+ê
+8nsfw_cls_model/resnet_block_layer_2/init_block_fn/relu_1ReluEnsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_1/FusedBatchNorm*
+T0
+Ü
+Pnsfw_cls_model/resnet_block_layer_2/init_block_fn/conv_pad_1/fix_padding/pad/PadPad8nsfw_cls_model/resnet_block_layer_2/init_block_fn/relu_1Ynsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_1/fix_padding/pad/Pad/paddings*
+T0*
+	Tpaddings0
+€
+Qnsfw_cls_model/resnet_block_layer_2/init_block_fn/projection_shortcut/conv/Conv2DConv2D8nsfw_cls_model/resnet_block_layer_2/init_block_fn/relu_1Lnsfw_cls_model/resnet_block_layer_2/init_block_fn/projection_shortcut/conv/W*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingVALID*
+	dilations
+*
+T0
+Ù
+Insfw_cls_model/resnet_block_layer_2/init_block_fn/bn_2/FusedBatchNorm/MulConv2DPnsfw_cls_model/resnet_block_layer_2/init_block_fn/conv_pad_1/fix_padding/pad/PadUnsfw_cls_model/resnet_block_layer_2/init_block_fn/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingVALID
+Ó
+Ensfw_cls_model/resnet_block_layer_2/init_block_fn/bn_2/FusedBatchNormAddInsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_2/FusedBatchNorm/MulLnsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_2/FusedBatchNorm/Offset*
+T0
+ê
+8nsfw_cls_model/resnet_block_layer_2/init_block_fn/relu_2ReluEnsfw_cls_model/resnet_block_layer_2/init_block_fn/bn_2/FusedBatchNorm*
+T0
+»
+Hnsfw_cls_model/resnet_block_layer_2/init_block_fn/conv_pad_2/conv/Conv2DConv2D8nsfw_cls_model/resnet_block_layer_2/init_block_fn/relu_2Cnsfw_cls_model/resnet_block_layer_2/init_block_fn/conv_pad_2/conv/W*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC
+‘
+'nsfw_cls_model/resnet_block_layer_2/addAddHnsfw_cls_model/resnet_block_layer_2/init_block_fn/conv_pad_2/conv/Conv2DQnsfw_cls_model/resnet_block_layer_2/init_block_fn/projection_shortcut/conv/Conv2D*
+T0
+ 
+Fnsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_1/FusedBatchNorm/MulMul'nsfw_cls_model/resnet_block_layer_2/addInsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_2/block_fn_1/relu_1ReluBnsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_2/block_fn_1/relu_1Rnsfw_cls_model/resnet_block_layer_2/block_fn_1/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_2/block_fn_1/relu_2ReluBnsfw_cls_model/resnet_block_layer_2/block_fn_1/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_2/block_fn_1/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_2/block_fn_1/relu_2@nsfw_cls_model/resnet_block_layer_2/block_fn_1/conv_pad_2/conv/W*
+paddingSAME*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(
+©
+)nsfw_cls_model/resnet_block_layer_2/add_1AddEnsfw_cls_model/resnet_block_layer_2/block_fn_1/conv_pad_2/conv/Conv2D'nsfw_cls_model/resnet_block_layer_2/add*
+T0
+Ã
+Fnsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_2/add_1Insfw_cls_model/resnet_block_layer_2/block_fn_2/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_2/block_fn_2/relu_1ReluBnsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_2/block_fn_2/relu_1Rnsfw_cls_model/resnet_block_layer_2/block_fn_2/conv_pad_1/conv/Conv2D/merged_input*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_2/block_fn_2/relu_2ReluBnsfw_cls_model/resnet_block_layer_2/block_fn_2/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_2/block_fn_2/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_2/block_fn_2/relu_2@nsfw_cls_model/resnet_block_layer_2/block_fn_2/conv_pad_2/conv/W*
+paddingSAME*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(
+´
+)nsfw_cls_model/resnet_block_layer_2/add_2AddEnsfw_cls_model/resnet_block_layer_2/block_fn_2/conv_pad_2/conv/Conv2D)nsfw_cls_model/resnet_block_layer_2/add_1*
+T0
+Ã
+Fnsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_2/add_2Insfw_cls_model/resnet_block_layer_2/block_fn_3/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_2/block_fn_3/relu_1ReluBnsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_2/block_fn_3/relu_1Rnsfw_cls_model/resnet_block_layer_2/block_fn_3/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_2/block_fn_3/relu_2ReluBnsfw_cls_model/resnet_block_layer_2/block_fn_3/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_2/block_fn_3/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_2/block_fn_3/relu_2@nsfw_cls_model/resnet_block_layer_2/block_fn_3/conv_pad_2/conv/W*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+
+´
+)nsfw_cls_model/resnet_block_layer_2/add_3AddEnsfw_cls_model/resnet_block_layer_2/block_fn_3/conv_pad_2/conv/Conv2D)nsfw_cls_model/resnet_block_layer_2/add_2*
+T0
+“
+Insfw_cls_model/resnet_block_layer_3/init_block_fn/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_2/add_3Lnsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_1/FusedBatchNorm/Scaled*
+T0
+Ó
+Ensfw_cls_model/resnet_block_layer_3/init_block_fn/bn_1/FusedBatchNormAddInsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_1/FusedBatchNorm/MulLnsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_1/FusedBatchNorm/Offset*
+T0
+ê
+8nsfw_cls_model/resnet_block_layer_3/init_block_fn/relu_1ReluEnsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_1/FusedBatchNorm*
+T0
+Ü
+Pnsfw_cls_model/resnet_block_layer_3/init_block_fn/conv_pad_1/fix_padding/pad/PadPad8nsfw_cls_model/resnet_block_layer_3/init_block_fn/relu_1Ynsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_1/fix_padding/pad/Pad/paddings*
 	Tpaddings0*
 T0
-Ü
-3nsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_3_0/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-paddingSAME*
+€
+Qnsfw_cls_model/resnet_block_layer_3/init_block_fn/projection_shortcut/conv/Conv2DConv2D8nsfw_cls_model/resnet_block_layer_3/init_block_fn/relu_1Lnsfw_cls_model/resnet_block_layer_3/init_block_fn/projection_shortcut/conv/W*
+paddingVALID*
 	dilations
 *
 T0*
@@ -811,14 +715,326 @@ Dnsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3n
 strides
 *
 use_cudnn_on_gpu(
-ﬂ
-@nsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
+Ù
+Insfw_cls_model/resnet_block_layer_3/init_block_fn/bn_2/FusedBatchNorm/MulConv2DPnsfw_cls_model/resnet_block_layer_3/init_block_fn/conv_pad_1/fix_padding/pad/PadUnsfw_cls_model/resnet_block_layer_3/init_block_fn/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingVALID
+Ó
+Ensfw_cls_model/resnet_block_layer_3/init_block_fn/bn_2/FusedBatchNormAddInsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_2/FusedBatchNorm/MulLnsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_2/FusedBatchNorm/Offset*
 T0
-Ü
-3nsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/bn/FusedBatchNorm*
+ê
+8nsfw_cls_model/resnet_block_layer_3/init_block_fn/relu_2ReluEnsfw_cls_model/resnet_block_layer_3/init_block_fn/bn_2/FusedBatchNorm*
 T0
-ß
-:nsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/conv/W*
+»
+Hnsfw_cls_model/resnet_block_layer_3/init_block_fn/conv_pad_2/conv/Conv2DConv2D8nsfw_cls_model/resnet_block_layer_3/init_block_fn/relu_2Cnsfw_cls_model/resnet_block_layer_3/init_block_fn/conv_pad_2/conv/W*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME
+‘
+'nsfw_cls_model/resnet_block_layer_3/addAddHnsfw_cls_model/resnet_block_layer_3/init_block_fn/conv_pad_2/conv/Conv2DQnsfw_cls_model/resnet_block_layer_3/init_block_fn/projection_shortcut/conv/Conv2D*
+T0
+ 
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_1/FusedBatchNorm/MulMul'nsfw_cls_model/resnet_block_layer_3/addInsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_1/relu_1ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_1/relu_1Rnsfw_cls_model/resnet_block_layer_3/block_fn_1/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_1/relu_2ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_1/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_3/block_fn_1/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_1/relu_2@nsfw_cls_model/resnet_block_layer_3/block_fn_1/conv_pad_2/conv/W*
+paddingSAME*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(
+©
+)nsfw_cls_model/resnet_block_layer_3/add_1AddEnsfw_cls_model/resnet_block_layer_3/block_fn_1/conv_pad_2/conv/Conv2D'nsfw_cls_model/resnet_block_layer_3/add*
+T0
+Ã
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_3/add_1Insfw_cls_model/resnet_block_layer_3/block_fn_2/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_2/relu_1ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_2/relu_1Rnsfw_cls_model/resnet_block_layer_3/block_fn_2/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_2/relu_2ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_2/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_3/block_fn_2/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_2/relu_2@nsfw_cls_model/resnet_block_layer_3/block_fn_2/conv_pad_2/conv/W*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+*
+T0
+´
+)nsfw_cls_model/resnet_block_layer_3/add_2AddEnsfw_cls_model/resnet_block_layer_3/block_fn_2/conv_pad_2/conv/Conv2D)nsfw_cls_model/resnet_block_layer_3/add_1*
+T0
+Ã
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_3/add_2Insfw_cls_model/resnet_block_layer_3/block_fn_3/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_3/relu_1ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_3/relu_1Rnsfw_cls_model/resnet_block_layer_3/block_fn_3/conv_pad_1/conv/Conv2D/merged_input*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_3/relu_2ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_3/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_3/block_fn_3/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_3/relu_2@nsfw_cls_model/resnet_block_layer_3/block_fn_3/conv_pad_2/conv/W*
+paddingSAME*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(
+´
+)nsfw_cls_model/resnet_block_layer_3/add_3AddEnsfw_cls_model/resnet_block_layer_3/block_fn_3/conv_pad_2/conv/Conv2D)nsfw_cls_model/resnet_block_layer_3/add_2*
+T0
+Ã
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_3/add_3Insfw_cls_model/resnet_block_layer_3/block_fn_4/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_4/relu_1ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_4/relu_1Rnsfw_cls_model/resnet_block_layer_3/block_fn_4/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_4/relu_2ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_4/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_3/block_fn_4/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_4/relu_2@nsfw_cls_model/resnet_block_layer_3/block_fn_4/conv_pad_2/conv/W*
+	dilations
+*
+T0*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME
+´
+)nsfw_cls_model/resnet_block_layer_3/add_4AddEnsfw_cls_model/resnet_block_layer_3/block_fn_4/conv_pad_2/conv/Conv2D)nsfw_cls_model/resnet_block_layer_3/add_3*
+T0
+Ã
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_3/add_4Insfw_cls_model/resnet_block_layer_3/block_fn_5/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_5/relu_1ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_5/relu_1Rnsfw_cls_model/resnet_block_layer_3/block_fn_5/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_3/block_fn_5/relu_2ReluBnsfw_cls_model/resnet_block_layer_3/block_fn_5/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_3/block_fn_5/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_3/block_fn_5/relu_2@nsfw_cls_model/resnet_block_layer_3/block_fn_5/conv_pad_2/conv/W*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+*
+T0
+´
+)nsfw_cls_model/resnet_block_layer_3/add_5AddEnsfw_cls_model/resnet_block_layer_3/block_fn_5/conv_pad_2/conv/Conv2D)nsfw_cls_model/resnet_block_layer_3/add_4*
+T0
+“
+Insfw_cls_model/resnet_block_layer_4/init_block_fn/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_3/add_5Lnsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_1/FusedBatchNorm/Scaled*
+T0
+Ó
+Ensfw_cls_model/resnet_block_layer_4/init_block_fn/bn_1/FusedBatchNormAddInsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_1/FusedBatchNorm/MulLnsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_1/FusedBatchNorm/Offset*
+T0
+ê
+8nsfw_cls_model/resnet_block_layer_4/init_block_fn/relu_1ReluEnsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_1/FusedBatchNorm*
+T0
+Ü
+Pnsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_1/fix_padding/pad/PadPad8nsfw_cls_model/resnet_block_layer_4/init_block_fn/relu_1Ynsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_1/fix_padding/pad/Pad/paddings*
+T0*
+	Tpaddings0
+€
+Qnsfw_cls_model/resnet_block_layer_4/init_block_fn/projection_shortcut/conv/Conv2DConv2D8nsfw_cls_model/resnet_block_layer_4/init_block_fn/relu_1Lnsfw_cls_model/resnet_block_layer_4/init_block_fn/projection_shortcut/conv/W*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingVALID*
+	dilations
+*
+T0
+Ù
+Insfw_cls_model/resnet_block_layer_4/init_block_fn/bn_2/FusedBatchNorm/MulConv2DPnsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_1/fix_padding/pad/PadUnsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingVALID
+Ó
+Ensfw_cls_model/resnet_block_layer_4/init_block_fn/bn_2/FusedBatchNormAddInsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_2/FusedBatchNorm/MulLnsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_2/FusedBatchNorm/Offset*
+T0
+ê
+8nsfw_cls_model/resnet_block_layer_4/init_block_fn/relu_2ReluEnsfw_cls_model/resnet_block_layer_4/init_block_fn/bn_2/FusedBatchNorm*
+T0
+»
+Hnsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_2/conv/Conv2DConv2D8nsfw_cls_model/resnet_block_layer_4/init_block_fn/relu_2Cnsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_2/conv/W*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME
+‘
+'nsfw_cls_model/resnet_block_layer_4/addAddHnsfw_cls_model/resnet_block_layer_4/init_block_fn/conv_pad_2/conv/Conv2DQnsfw_cls_model/resnet_block_layer_4/init_block_fn/projection_shortcut/conv/Conv2D*
+T0
+ 
+Fnsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_1/FusedBatchNorm/MulMul'nsfw_cls_model/resnet_block_layer_4/addInsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_4/block_fn_1/relu_1ReluBnsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_4/block_fn_1/relu_1Rnsfw_cls_model/resnet_block_layer_4/block_fn_1/conv_pad_1/conv/Conv2D/merged_input*
+	dilations
+*
+T0*
+data_formatNHWC*
+strides
+*
+use_cudnn_on_gpu(*
+paddingSAME
+Â
+Bnsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_2/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_4/block_fn_1/relu_2ReluBnsfw_cls_model/resnet_block_layer_4/block_fn_1/bn_2/FusedBatchNorm*
+T0
+ø
+Ensfw_cls_model/resnet_block_layer_4/block_fn_1/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_4/block_fn_1/relu_2@nsfw_cls_model/resnet_block_layer_4/block_fn_1/conv_pad_2/conv/W*
+strides
+*
+data_formatNHWC*
+use_cudnn_on_gpu(*
+paddingSAME*
+	dilations
+*
+T0
+©
+)nsfw_cls_model/resnet_block_layer_4/add_1AddEnsfw_cls_model/resnet_block_layer_4/block_fn_1/conv_pad_2/conv/Conv2D'nsfw_cls_model/resnet_block_layer_4/add*
+T0
+Ã
+Fnsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_1/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_4/add_1Insfw_cls_model/resnet_block_layer_4/block_fn_2/bn_1/FusedBatchNorm/Scaled*
+T0
+Â
+Bnsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_1/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_1/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_1/FusedBatchNorm/Offset*
+T0
+ä
+5nsfw_cls_model/resnet_block_layer_4/block_fn_2/relu_1ReluBnsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_1/FusedBatchNorm*
+T0
+“
+Fnsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_2/FusedBatchNorm/MulConv2D5nsfw_cls_model/resnet_block_layer_4/block_fn_2/relu_1Rnsfw_cls_model/resnet_block_layer_4/block_fn_2/conv_pad_1/conv/Conv2D/merged_input*
 use_cudnn_on_gpu(*
 paddingSAME*
 	dilations
@@ -827,185 +1043,50 @@ Dnsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3n
 strides
 *
 data_formatNHWC
-Ñ
-nsfw_cls_model/conv_3_0/addAdd:nsfw_cls_model/conv_3_0/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_3_0/Pad*
+Â
+Bnsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_2/FusedBatchNormAddFnsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_2/FusedBatchNorm/MulInsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_2/FusedBatchNorm/Offset*
 T0
-∫
-Dnsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_3_0/addGnsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
+ä
+5nsfw_cls_model/resnet_block_layer_4/block_fn_2/relu_2ReluBnsfw_cls_model/resnet_block_layer_4/block_fn_2/bn_2/FusedBatchNorm*
 T0
-ﬂ
-@nsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_3_1/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/conv/W*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(*
+ø
+Ensfw_cls_model/resnet_block_layer_4/block_fn_2/conv_pad_2/conv/Conv2DConv2D5nsfw_cls_model/resnet_block_layer_4/block_fn_2/relu_2@nsfw_cls_model/resnet_block_layer_4/block_fn_2/conv_pad_2/conv/W*
 paddingSAME*
 	dilations
 *
-T0
-Ñ
-nsfw_cls_model/conv_3_1/addAdd:nsfw_cls_model/conv_3_1/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_3_0/add*
-T0
-∫
-Dnsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_3_1/addGnsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_3_2/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
 T0*
 data_formatNHWC*
 strides
 *
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
+use_cudnn_on_gpu(
+´
+)nsfw_cls_model/resnet_block_layer_4/add_2AddEnsfw_cls_model/resnet_block_layer_4/block_fn_2/conv_pad_2/conv/Conv2D)nsfw_cls_model/resnet_block_layer_4/add_1*
 T0
-Ü
-3nsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/bn/FusedBatchNorm*
+¨
+6nsfw_cls_model/bn_after_block_layer/FusedBatchNorm/MulMul)nsfw_cls_model/resnet_block_layer_4/add_29nsfw_cls_model/bn_after_block_layer/FusedBatchNorm/Scaled*
 T0
-ß
-:nsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/conv/W*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-Ñ
-nsfw_cls_model/conv_3_2/addAdd:nsfw_cls_model/conv_3_2/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_3_1/add*
+µ
+2nsfw_cls_model/bn_after_block_layer/FusedBatchNormAdd6nsfw_cls_model/bn_after_block_layer/FusedBatchNorm/Mul9nsfw_cls_model/bn_after_block_layer/FusedBatchNorm/Offset*
 T0
-∫
-Dnsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_3_2/addGnsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
+j
+%nsfw_cls_model/relu_after_block_layerRelu2nsfw_cls_model/bn_after_block_layer/FusedBatchNorm*
 T0
-ﬂ
-@nsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_3_3/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/conv/W*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(*
-paddingSAME*
-	dilations
-*
-T0
-Ñ
-nsfw_cls_model/conv_3_3/addAdd:nsfw_cls_model/conv_3_3/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_3_2/add*
-T0
-∫
-Dnsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_3_3/addGnsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/Scaled*
-T0
-ﬂ
-@nsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/reluRelu@nsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/bn/FusedBatchNorm*
-T0
-√
-Dnsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulConv2D3nsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/reluGnsfw_cls_model/conv_3_4/conv_1_in_block/conv_1/conv/Conv2D/merged_input*
-	dilations
-*
-T0*
-data_formatNHWC*
-strides
-*
-use_cudnn_on_gpu(*
-paddingSAME
-ﬂ
-@nsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/bn/FusedBatchNormAddDnsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/MulGnsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/bn/FusedBatchNorm/Offset*
-T0
-Ü
-3nsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/reluRelu@nsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/bn/FusedBatchNorm*
-T0
-ß
-:nsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/conv/Conv2DConv2D3nsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/relu5nsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/conv/W*
-strides
-*
-data_formatNHWC*
-use_cudnn_on_gpu(*
-paddingSAME*
-	dilations
-*
-T0
-Ñ
-nsfw_cls_model/conv_3_4/addAdd:nsfw_cls_model/conv_3_4/conv_2_in_block/conv_2/conv/Conv2Dnsfw_cls_model/conv_3_3/add*
-T0
-Ä
-'nsfw_cls_model/fc/bn/FusedBatchNorm/MulMulnsfw_cls_model/conv_3_4/add*nsfw_cls_model/fc/bn/FusedBatchNorm/Scaled*
-T0
-à
-#nsfw_cls_model/fc/bn/FusedBatchNormAdd'nsfw_cls_model/fc/bn/FusedBatchNorm/Mul*nsfw_cls_model/fc/bn/FusedBatchNorm/Offset*
-T0
-L
-nsfw_cls_model/fc/reluRelu#nsfw_cls_model/fc/bn/FusedBatchNorm*
-T0
-ú
-!nsfw_cls_model/fc/global_avg_poolMeannsfw_cls_model/fc/relu3nsfw_cls_model/fc/global_avg_pool/reduction_indices*
+©
+ nsfw_cls_model/final_reduce_meanMean%nsfw_cls_model/relu_after_block_layer2nsfw_cls_model/final_reduce_mean/reduction_indices*
+	keep_dims(*
 
-Tidx0*
-	keep_dims( *
+Tidx0*
 T0
-®
-%nsfw_cls_model/fc/final_logits/MatMulMatMul!nsfw_cls_model/fc/global_avg_pool%nsfw_cls_model/fc/final_logits/kernel*
+j
+nsfw_cls_model/final_squeezeSqueeze nsfw_cls_model/final_reduce_mean*
+squeeze_dims
+*
+T0
+ù
+"nsfw_cls_model/final_logits/MatMulMatMulnsfw_cls_model/final_squeeze"nsfw_cls_model/final_logits/kernel*
 T0*
 transpose_a( *
 transpose_b( 
-ù
-&nsfw_cls_model/fc/final_logits/BiasAddBiasAdd%nsfw_cls_model/fc/final_logits/MatMul#nsfw_cls_model/fc/final_logits/bias*
-T0*
-data_formatNHWC
-[
-nsfw_cls_model/final_predictionSoftmax&nsfw_cls_model/fc/final_logits/BiasAdd*
+W
+nsfw_cls_model/final_predictionSoftmax"nsfw_cls_model/final_logits/MatMul*
 T0 " 

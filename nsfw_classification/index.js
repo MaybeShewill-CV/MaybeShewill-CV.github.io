@@ -74,8 +74,13 @@ async function predict(imgElement) {
     const offset_1 = tf.scalar(127.5);
     const offset_2 = tf.scalar(0.5);
     const offset_3 = tf.scalar(2.5);
+
+    let imagenet_mean = tf.expandDims([103.94, 116.78, 123.68], 0);
+    imagenet_mean = tf.expandDims(imagenet_mean, 0);
+
     // Normalize the image from [0, 255] to [-1, 1].
-    const normalized = img_reshape.div(offset_1).sub(offset_2).mul(offset_3);
+    // const normalized = img_reshape.div(offset_1).sub(offset_2).mul(offset_3);
+    const normalized = img_reshape.sub(imagenet_mean);
 
     // Reshape to a single-element batch so we can pass it to predict.
     const batched = normalized.reshape([1, IMAGE_SIZE, IMAGE_SIZE, 3]);
