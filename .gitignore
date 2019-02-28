@@ -1,1 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea
+nsfw_classification/.cache
+nsfw_classification/dist
+nsfw_classification/node_modules

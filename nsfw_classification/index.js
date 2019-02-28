@@ -18,6 +18,7 @@ const NSFWNET_MODEL_PATH ='model/tensorflowjs_model.pb';
 const NSFWNET_WEIGHTS_PATH ='model/weights_manifest.json';
 
 const IMAGE_SIZE = 256;
+const IMAGE_CROP_SIZE = 224;
 const TOPK_PREDICTIONS = 5;
 
 const NSFW_CLASSES = {
@@ -38,7 +39,9 @@ const nsfwnetDemo = async () => {
   // Warmup the model. This isn't necessary, but makes the first prediction
   // faster. Call `dispose` to release the WebGL memory allocated for the return
   // value of `predict`.
-  nsfwnet.predict(tf.zeros([1, IMAGE_SIZE, IMAGE_SIZE, 3])).dispose();
+  nsfwnet.predict(tf.zeros([1, IMAGE_CROP_SIZE, IMAGE_CROP_SIZE, 3])).dispose();
+
+  console.log('Model Warm complete');
 
   // Make a prediction through the locally hosted test_draw.jpg.
   const image_Element = document.getElementById('test_draw');
@@ -57,6 +60,7 @@ const nsfwnetDemo = async () => {
   document.getElementById('file-container').style.display = '';
 };
 
+
 /**
  * Given an image element, makes a prediction through mobilenet returning the
  * probabilities of the top K classes.
@@ -69,21 +73,17 @@ async function predict(imgElement) {
 
     // tf.fromPixels() returns a Tensor from an image element.
     const img = tf.browser.fromPixels(imgElement).toFloat();
-    const img_reshape = tf.reverse(img, [-1]);
-
-    const offset_1 = tf.scalar(127.5);
-    const offset_2 = tf.scalar(0.5);
-    const offset_3 = tf.scalar(2.5);
+    const crop_image = tf.slice(img, [16, 16, 0], [224, 224, -1]);
+    const img_reshape = tf.reverse(crop_image, [-1]);
 
     let imagenet_mean = tf.expandDims([103.94, 116.78, 123.68], 0);
     imagenet_mean = tf.expandDims(imagenet_mean, 0);
 
     // Normalize the image from [0, 255] to [-1, 1].
-    // const normalized = img_reshape.div(offset_1).sub(offset_2).mul(offset_3);
     const normalized = img_reshape.sub(imagenet_mean);
 
     // Reshape to a single-element batch so we can pass it to predict.
-    const batched = normalized.reshape([1, IMAGE_SIZE, IMAGE_SIZE, 3]);
+    const batched = normalized.reshape([1, IMAGE_CROP_SIZE, IMAGE_CROP_SIZE, 3]);
 
     // Make a prediction through mobilenet.
     return nsfwnet.predict(batched);
